@@ -1,0 +1,13 @@
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\bin\Debug\League of Legends Lazy Tools.exe.config
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\bin\Debug\League of Legends Lazy Tools.exe
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\bin\Debug\League of Legends Lazy Tools.pdb
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\bin\Debug\League of Legends Lazy Tools.xml
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League_of_Legends_Lazy_Tools.Resources.resources
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League of Legends Lazy Tools.vbproj.GenerateResource.Cache
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League of Legends Lazy Tools.exe
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League of Legends Lazy Tools.xml
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League of Legends Lazy Tools.pdb
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League_of_Legends_Lazy_Tools.Form1.resources
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\bin\Debug\SaeedSearch.dll
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\bin\Debug\SaeedSearch.pdb
+c:\users\said\documents\visual studio 2013\Projects\League of Legends Lazy Tools\League of Legends Lazy Tools\obj\Debug\League of Legends Lazy Tools.vbprojResolveAssemblyReference.cache
