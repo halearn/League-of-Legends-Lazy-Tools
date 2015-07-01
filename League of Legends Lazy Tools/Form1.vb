@@ -228,7 +228,7 @@ Public Class Form1
     Sub save()
         Dim settings As Object = New Settings
         settings.username = FlatTextBox1.Text
-        settings.password = AES_Encrypt(FlatTextBox2.Text, "_MuchSalt_SoWOW!@#")
+        settings.password = AES_Encrypt(FlatTextBox2.Text, "add_salt_here_for_encryption") 'obviously not the one i use on the live version.
         settings.region = FlatComboBox1.Text
         settings.lolpath = FlatTextBox3.Text
 
